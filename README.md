@@ -2,7 +2,7 @@
 
 ## About this Internship
 
-This is my Assignment Project of Skill India Internship Programme organized by Elite Techno Groups. Ashish Jangara is my Instructor for this Project and Internship, Along with this Project we will create 3 more for this Internship Olympic Data Analysis, Car MAnufacturing Company Data Analysis and a Mega Project of Breast Cancer Detection.
+This is my Assignment Project of Skill India Internship Programme organized by Elite Techno Groups. Ashish Jangara is my Instructor for this Project and Internship, Along with this Project we will create 3 more Projects for this Internship, Olympic Data Analysis, Car MAnufacturing Company Data Analysis and a Mega Project of Breast Cancer Detection.
 
 ## Project Details
 
