@@ -10,11 +10,11 @@ Inventory Management System is a Stock Adding, Purchasing, Billing, Transactions
 
 ## Project Features
 
-1.) It contains Adding the New Product in the Inventory features.
-2.) We can Also Purchase at the same time from the Inventory or Stock.
-3.) After Purchasing the Product I have added the Feature of Billing which contains all the Details of your Purchase like Product ID, Quantity, Price, GST, Net Amount, Date of Transaction, Shop Name, Return Details, etc are mentioned in it.
-4.) After Succesful Buying from the Customer, I have added the feature of Updating Inventory.
-5.) A sales.json file is also dumped there to get the Trasaction details after the Purhase.
+### 1.) It contains Adding the New Product in the Inventory features.
+### 2.) We can Also Purchase at the same time from the Inventory or Stock.
+### 3.) After Purchasing the Product I have added the Feature of Billing which contains all the Details of your Purchase like Product ID, Quantity, Price, GST, Net Amount, Date of Transaction, Shop Name, Return Details, etc are mentioned in it.
+### 4.) After Succesful Buying from the Customer, I have added the feature of Updating Inventory.
+### 5.) A sales.json file is also dumped there to get the Trasaction details after the Purhase.
 
 
 ## Who I am ?
