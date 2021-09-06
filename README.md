@@ -39,7 +39,7 @@ My Name is Prashant Rai and my Speciality is working on DASHBOARDS, currently I 
 
 ## Social Media Links
 
-### Linkedin : www.linkedin.com/in/prashant-rai-23268b1b9
-### Twitter : https://twitter.com/Prashant_rai7
-### Facebook : https://www.facebook.com/profile.php?id=100009678483639
-### Instagram : https://www.instagram.com/prashant_rai7/
+#### Linkedin : www.linkedin.com/in/prashant-rai-23268b1b9
+#### Twitter : https://twitter.com/Prashant_rai7
+#### Facebook : https://www.facebook.com/profile.php?id=100009678483639
+#### Instagram : https://www.instagram.com/prashant_rai7/
